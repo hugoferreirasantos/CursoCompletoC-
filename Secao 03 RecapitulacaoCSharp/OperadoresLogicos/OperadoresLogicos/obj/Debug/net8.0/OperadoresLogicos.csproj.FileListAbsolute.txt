@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\ref\OperadoresLogicos.dll

@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\obj\Debug\net8.0\refint\ProjetoTeste.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ProjetoTeste\ProjetoTeste\obj\Debug\net8.0\ref\ProjetoTeste.dll

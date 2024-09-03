@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\bin\Debug\net8.0\EstruCondicional2.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\bin\Debug\net8.0\EstruCondicional2.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\bin\Debug\net8.0\EstruCondicional2.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\bin\Debug\net8.0\EstruCondicional2.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\bin\Debug\net8.0\EstruCondicional2.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\EstruCondicional2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\EstruCondicional2.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\EstruCondicional2.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\EstruCondicional2.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\EstruCondicional2.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\EstruCondicional2.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\refint\EstruCondicional2.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\EstruCondicional2.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\EstruCondicional2.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\EstruCondicional2\EstruCondicional2\obj\Debug\net8.0\ref\EstruCondicional2.dll

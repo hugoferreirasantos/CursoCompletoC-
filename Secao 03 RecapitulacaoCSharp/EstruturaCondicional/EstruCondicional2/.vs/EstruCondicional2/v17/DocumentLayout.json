@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 Recapitulacao de logica de programacao usando CSharp\\EstruCondicional2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFBBED-7083-44C3-9F70-C00116F4DFD2}|EstruCondicional2\\EstruCondicional2.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 03 recapitulacao de logica de programacao usando csharp\\estrucondicional2\\estrucondicional2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFBBED-7083-44C3-9F70-C00116F4DFD2}|EstruCondicional2\\EstruCondicional2.csproj|solutionrelative:estrucondicional2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 Recapitulacao de logica de programacao usando CSharp\\EstruCondicional2\\EstruCondicional2\\Program.cs",
+              "RelativeDocumentMoniker": "EstruCondicional2\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 Recapitulacao de logica de programacao usando CSharp\\EstruCondicional2\\EstruCondicional2\\Program.cs",
+              "RelativeToolTip": "EstruCondicional2\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:20:07.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

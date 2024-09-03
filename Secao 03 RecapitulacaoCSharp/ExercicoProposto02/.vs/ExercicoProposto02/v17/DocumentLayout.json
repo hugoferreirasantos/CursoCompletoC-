@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 Recapitulacao de logica de programacao usando CSharp\\ExercicoProposto02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7B1306-5C27-4A09-98C5-D6AA082069DB}|ExercicoProposto02\\ExercicoProposto02.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 03 recapitulacao de logica de programacao usando csharp\\exercicoproposto02\\exercicoproposto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7B1306-5C27-4A09-98C5-D6AA082069DB}|ExercicoProposto02\\ExercicoProposto02.csproj|solutionrelative:exercicoproposto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 Recapitulacao de logica de programacao usando CSharp\\ExercicoProposto02\\ExercicoProposto02\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicoProposto02\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 Recapitulacao de logica de programacao usando CSharp\\ExercicoProposto02\\ExercicoProposto02\\Program.cs",
+              "RelativeToolTip": "ExercicoProposto02\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:13:28.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

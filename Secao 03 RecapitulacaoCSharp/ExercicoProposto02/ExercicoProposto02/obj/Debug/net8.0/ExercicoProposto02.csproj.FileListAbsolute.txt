@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\bin\Debug\net8.0\ExercicoProposto02.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\bin\Debug\net8.0\ExercicoProposto02.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\bin\Debug\net8.0\ExercicoProposto02.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\bin\Debug\net8.0\ExercicoProposto02.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\bin\Debug\net8.0\ExercicoProposto02.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\ExercicoProposto02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\ExercicoProposto02.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\ExercicoProposto02.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\ExercicoProposto02.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\ExercicoProposto02.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\ExercicoProposto02.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\refint\ExercicoProposto02.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\ExercicoProposto02.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\ExercicoProposto02.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\ExercicoProposto02\ExercicoProposto02\obj\Debug\net8.0\ref\ExercicoProposto02.dll

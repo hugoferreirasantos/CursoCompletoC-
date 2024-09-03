@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\obj\Debug\net8.0\refint\Exercicio04.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Prova Teste - Inicial\Exercicio04\Exercicio04\obj\Debug\net8.0\ref\Exercicio04.dll

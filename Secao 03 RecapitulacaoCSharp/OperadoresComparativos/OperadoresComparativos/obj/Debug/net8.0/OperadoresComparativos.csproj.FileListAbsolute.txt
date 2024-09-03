@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\refint\OperadoresComparativos.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\ref\OperadoresComparativos.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Prova Teste - Inicial\\Exercicio04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A95BFEF1-9099-4A07-AE27-F85D642953E6}|Exercicio04\\Exercicio04.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\prova teste - inicial\\exercicio04\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95BFEF1-9099-4A07-AE27-F85D642953E6}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Prova Teste - Inicial\\Exercicio04\\Exercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio04\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Prova Teste - Inicial\\Exercicio04\\Exercicio04\\Program.cs",
+              "RelativeToolTip": "Exercicio04\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:39:44.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

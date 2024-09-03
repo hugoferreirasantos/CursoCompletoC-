@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 Recapitulacao de logica de programacao usando CSharp\\Exercicos Programcao Sequencial\\ExercicioProposto05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8970098-96F3-4E79-BE28-73B28325AF77}|ExercicioProposto05\\ExercicioProposto05.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 03 recapitulacao de logica de programacao usando csharp\\exercicos programcao sequencial\\exercicioproposto05\\exercicioproposto05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8970098-96F3-4E79-BE28-73B28325AF77}|ExercicioProposto05\\ExercicioProposto05.csproj|solutionrelative:exercicioproposto05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 Recapitulacao de logica de programacao usando CSharp\\Exercicos Programcao Sequencial\\ExercicioProposto05\\ExercicioProposto05\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioProposto05\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 Recapitulacao de logica de programacao usando CSharp\\Exercicos Programcao Sequencial\\ExercicioProposto05\\ExercicioProposto05\\Program.cs",
+              "RelativeToolTip": "ExercicioProposto05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:11:50.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
