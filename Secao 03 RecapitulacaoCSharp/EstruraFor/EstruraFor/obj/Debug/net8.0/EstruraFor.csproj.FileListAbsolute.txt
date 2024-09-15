@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\bin\Debug\net8.0\EstruraFor.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\bin\Debug\net8.0\EstruraFor.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\bin\Debug\net8.0\EstruraFor.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\bin\Debug\net8.0\EstruraFor.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\bin\Debug\net8.0\EstruraFor.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\EstruraFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\EstruraFor.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\EstruraFor.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\EstruraFor.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\EstruraFor.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\EstruraFor.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\refint\EstruraFor.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\EstruraFor.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\EstruraFor.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruraFor\EstruraFor\obj\Debug\net8.0\ref\EstruraFor.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 RecapitulacaoCSharp\\Exercicos Programa\u00E7\u00E3o\\Exercios Estrutura For\\Exer01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{548AEEF4-D438-4FC9-8C08-19E1BEF3F066}|Exer01\\Exer01.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 03 recapitulacaocsharp\\exercicos programa\u00E7\u00E3o\\exercios estrutura for\\exer01\\exer01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548AEEF4-D438-4FC9-8C08-19E1BEF3F066}|Exer01\\Exer01.csproj|solutionrelative:exer01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 RecapitulacaoCSharp\\Exercicos Programa\u00E7\u00E3o\\Exercios Estrutura For\\Exer01\\Exer01\\Program.cs",
+              "RelativeDocumentMoniker": "Exer01\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 RecapitulacaoCSharp\\Exercicos Programa\u00E7\u00E3o\\Exercios Estrutura For\\Exer01\\Exer01\\Program.cs",
+              "RelativeToolTip": "Exer01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:07:30.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

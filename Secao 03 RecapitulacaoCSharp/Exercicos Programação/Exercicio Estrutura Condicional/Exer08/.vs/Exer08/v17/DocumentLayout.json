@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 RecapitulacaoCSharp\\Exercicos Programa\u00E7\u00E3o\\Exercicio Estrutura Condicional\\Exer08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01A64076-587F-4510-985A-228731397D1A}|Exer08\\Exer08.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 03 recapitulacaocsharp\\exercicos programa\u00E7\u00E3o\\exercicio estrutura condicional\\exer08\\exer08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A64076-587F-4510-985A-228731397D1A}|Exer08\\Exer08.csproj|solutionrelative:exer08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 RecapitulacaoCSharp\\Exercicos Programa\u00E7\u00E3o\\Exercicio Estrutura Condicional\\Exer08\\Exer08\\Program.cs",
+              "RelativeDocumentMoniker": "Exer08\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 RecapitulacaoCSharp\\Exercicos Programa\u00E7\u00E3o\\Exercicio Estrutura Condicional\\Exer08\\Exer08\\Program.cs",
+              "RelativeToolTip": "Exer08\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:45:44.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

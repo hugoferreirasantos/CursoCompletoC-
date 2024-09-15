@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\refint\EstruturaWhile.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\ref\EstruturaWhile.dll

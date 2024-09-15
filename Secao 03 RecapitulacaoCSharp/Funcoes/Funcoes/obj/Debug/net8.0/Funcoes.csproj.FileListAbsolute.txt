@@ -13,3 +13,18 @@ D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica d
 D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.pdb
 D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
 D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 Recapitulacao de logica de programacao usando CSharp\Funcoes\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Funcoes\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll

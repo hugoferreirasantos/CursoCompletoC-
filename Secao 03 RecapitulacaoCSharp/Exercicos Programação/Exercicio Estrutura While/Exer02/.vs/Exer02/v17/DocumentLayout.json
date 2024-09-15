@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 RecapitulacaoCSharp\\Exercicos Programa\u00E7\u00E3o\\Exercicio Estrutura While\\Exer02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C2A7D2-CC0E-4960-A8A5-0CD1882D6976}|Exer02\\Exer02.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 03 recapitulacaocsharp\\exercicos programa\u00E7\u00E3o\\exercicio estrutura while\\exer02\\exer02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C2A7D2-CC0E-4960-A8A5-0CD1882D6976}|Exer02\\Exer02.csproj|solutionrelative:exer02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 RecapitulacaoCSharp\\Exercicos Programa\u00E7\u00E3o\\Exercicio Estrutura While\\Exer02\\Exer02\\Program.cs",
+              "RelativeDocumentMoniker": "Exer02\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 03 RecapitulacaoCSharp\\Exercicos Programa\u00E7\u00E3o\\Exercicio Estrutura While\\Exer02\\Exer02\\Program.cs",
+              "RelativeToolTip": "Exer02\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:27:48.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

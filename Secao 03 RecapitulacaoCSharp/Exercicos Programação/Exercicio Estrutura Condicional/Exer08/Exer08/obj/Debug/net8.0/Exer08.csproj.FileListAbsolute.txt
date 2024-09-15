@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\bin\Debug\net8.0\Exer08.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\bin\Debug\net8.0\Exer08.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\bin\Debug\net8.0\Exer08.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\bin\Debug\net8.0\Exer08.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\bin\Debug\net8.0\Exer08.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\Exer08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\Exer08.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\Exer08.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\Exer08.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\Exer08.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\Exer08.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\refint\Exer08.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\Exer08.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\Exer08.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercicio Estrutura Condicional\Exer08\Exer08\obj\Debug\net8.0\ref\Exer08.dll
