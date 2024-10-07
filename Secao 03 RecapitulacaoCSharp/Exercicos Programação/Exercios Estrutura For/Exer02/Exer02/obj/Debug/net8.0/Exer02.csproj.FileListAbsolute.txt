@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\bin\Debug\net8.0\Exer02.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\bin\Debug\net8.0\Exer02.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\bin\Debug\net8.0\Exer02.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\bin\Debug\net8.0\Exer02.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\bin\Debug\net8.0\Exer02.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\Exer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\Exer02.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\Exer02.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\Exer02.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\Exer02.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\Exer02.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\refint\Exer02.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\Exer02.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\Exer02.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 03 RecapitulacaoCSharp\Exercicos Programação\Exercios Estrutura For\Exer02\Exer02\obj\Debug\net8.0\ref\Exer02.dll

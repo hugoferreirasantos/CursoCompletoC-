@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\PrimeirosExercicios\\ClassesUtilitarias\\Exer01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C3656A-EABF-4109-9249-B10EE19CACD3}|Exer01\\Exer01.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 04 classes\\primeirosexercicios\\classesutilitarias\\exer01\\exer01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C3656A-EABF-4109-9249-B10EE19CACD3}|Exer01\\Exer01.csproj|solutionrelative:exer01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C3656A-EABF-4109-9249-B10EE19CACD3}|Exer01\\Exer01.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 04 classes\\primeirosexercicios\\classesutilitarias\\exer01\\exer01\\classeutilitaria\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C3656A-EABF-4109-9249-B10EE19CACD3}|Exer01\\Exer01.csproj|solutionrelative:exer01\\classeutilitaria\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C3656A-EABF-4109-9249-B10EE19CACD3}|Exer01\\Exer01.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 04 classes\\primeirosexercicios\\classesutilitarias\\exer01\\exer01\\exer01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74C3656A-EABF-4109-9249-B10EE19CACD3}|Exer01\\Exer01.csproj|solutionrelative:exer01\\exer01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exer01",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\PrimeirosExercicios\\ClassesUtilitarias\\Exer01\\Exer01\\Exer01.csproj",
+              "RelativeDocumentMoniker": "Exer01\\Exer01.csproj",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\PrimeirosExercicios\\ClassesUtilitarias\\Exer01\\Exer01\\Exer01.csproj",
+              "RelativeToolTip": "Exer01\\Exer01.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T00:25:30.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\PrimeirosExercicios\\ClassesUtilitarias\\Exer01\\Exer01\\ClasseUtilitaria\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "Exer01\\ClasseUtilitaria\\ConversorDeMoeda.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\PrimeirosExercicios\\ClassesUtilitarias\\Exer01\\Exer01\\ClasseUtilitaria\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "Exer01\\ClasseUtilitaria\\ConversorDeMoeda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:26:20.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\PrimeirosExercicios\\ClassesUtilitarias\\Exer01\\Exer01\\Program.cs",
+              "RelativeDocumentMoniker": "Exer01\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\PrimeirosExercicios\\ClassesUtilitarias\\Exer01\\Exer01\\Program.cs",
+              "RelativeToolTip": "Exer01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:17:58.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\Exemplo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD80FD32-7896-4E1B-89B0-4C1EEAD1A987}|Exemplo01\\Exemplo01.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 04 classes\\exemplo01\\exemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD80FD32-7896-4E1B-89B0-4C1EEAD1A987}|Exemplo01\\Exemplo01.csproj|solutionrelative:exemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\Exemplo01\\Exemplo01\\Program.cs",
+              "RelativeDocumentMoniker": "Exemplo01\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 04 Classes\\Exemplo01\\Exemplo01\\Program.cs",
+              "RelativeToolTip": "Exemplo01\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:09:17.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
