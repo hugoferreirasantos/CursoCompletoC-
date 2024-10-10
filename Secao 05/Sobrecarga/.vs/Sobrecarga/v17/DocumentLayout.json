@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 05\\Sobrecarga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{683D8043-FA81-441B-A117-A73BDF4167B4}|Sobrecarga\\Sobrecarga.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 05\\sobrecarga\\sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683D8043-FA81-441B-A117-A73BDF4167B4}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683D8043-FA81-441B-A117-A73BDF4167B4}|Sobrecarga\\Sobrecarga.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 05\\sobrecarga\\sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683D8043-FA81-441B-A117-A73BDF4167B4}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 05\\Sobrecarga\\Sobrecarga\\Produto.cs",
+              "RelativeDocumentMoniker": "Sobrecarga\\Produto.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 05\\Sobrecarga\\Sobrecarga\\Produto.cs",
+              "RelativeToolTip": "Sobrecarga\\Produto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:27:13.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 05\\Sobrecarga\\Sobrecarga\\Program.cs",
+              "RelativeDocumentMoniker": "Sobrecarga\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 05\\Sobrecarga\\Sobrecarga\\Program.cs",
+              "RelativeToolTip": "Sobrecarga\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:26:11.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
