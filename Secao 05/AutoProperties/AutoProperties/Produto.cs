@@ -6,7 +6,7 @@ namespace AutoProperties
 {
     class Produto
     {
-        private string _nome;
+        private string _nome;   
         public double Preco { get; private set; }
         public double Quantidade { get; set; }
         public Produto()
