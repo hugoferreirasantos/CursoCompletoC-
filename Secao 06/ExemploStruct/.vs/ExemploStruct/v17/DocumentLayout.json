@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExemploStruct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB9D523-241D-4873-A86E-49A56FFDED89}|ExemploStruct\\ExemploStruct.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 06\\exemplostruct\\exemplostruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB9D523-241D-4873-A86E-49A56FFDED89}|ExemploStruct\\ExemploStruct.csproj|solutionrelative:exemplostruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB9D523-241D-4873-A86E-49A56FFDED89}|ExemploStruct\\ExemploStruct.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 06\\exemplostruct\\exemplostruct\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB9D523-241D-4873-A86E-49A56FFDED89}|ExemploStruct\\ExemploStruct.csproj|solutionrelative:exemplostruct\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExemploStruct\\ExemploStruct\\Point.cs",
+              "RelativeDocumentMoniker": "ExemploStruct\\Point.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExemploStruct\\ExemploStruct\\Point.cs",
+              "RelativeToolTip": "ExemploStruct\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:42:05.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExemploStruct\\ExemploStruct\\Program.cs",
+              "RelativeDocumentMoniker": "ExemploStruct\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExemploStruct\\ExemploStruct\\Program.cs",
+              "RelativeToolTip": "ExemploStruct\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:40:42.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
