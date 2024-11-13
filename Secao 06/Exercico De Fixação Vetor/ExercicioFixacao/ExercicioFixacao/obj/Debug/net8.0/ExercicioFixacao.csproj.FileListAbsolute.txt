@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.exe
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.deps.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.sourcelink.json
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\refint\ExercicioFixacao.dll
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.pdb
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Curso completo C#\Secao 06\Exercico De Fixação Vetor\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ref\ExercicioFixacao.dll
