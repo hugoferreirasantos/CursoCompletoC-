@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExercicioFixacaoLista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5B08F9-FBD2-4700-970C-9AFE75EA85BD}|ExercicioFixacaoLista\\ExercicioFixacaoLista.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 06\\exerciciofixacaolista\\exerciciofixacaolista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5B08F9-FBD2-4700-970C-9AFE75EA85BD}|ExercicioFixacaoLista\\ExercicioFixacaoLista.csproj|solutionrelative:exerciciofixacaolista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5B08F9-FBD2-4700-970C-9AFE75EA85BD}|ExercicioFixacaoLista\\ExercicioFixacaoLista.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 06\\exerciciofixacaolista\\exerciciofixacaolista\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5B08F9-FBD2-4700-970C-9AFE75EA85BD}|ExercicioFixacaoLista\\ExercicioFixacaoLista.csproj|solutionrelative:exerciciofixacaolista\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExercicioFixacaoLista\\ExercicioFixacaoLista\\Employee.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacaoLista\\Employee.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExercicioFixacaoLista\\ExercicioFixacaoLista\\Employee.cs",
+              "RelativeToolTip": "ExercicioFixacaoLista\\Employee.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:25:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExercicioFixacaoLista\\ExercicioFixacaoLista\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacaoLista\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 06\\ExercicioFixacaoLista\\ExercicioFixacaoLista\\Program.cs",
+              "RelativeToolTip": "ExercicioFixacaoLista\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:22:21.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
