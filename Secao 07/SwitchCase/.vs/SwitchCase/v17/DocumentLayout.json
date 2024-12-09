@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 07\\SwitchCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{228CD829-381F-49AB-AA1A-411FB1E6E6E0}|SwitchCase\\SwitchCase.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 07\\switchcase\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228CD829-381F-49AB-AA1A-411FB1E6E6E0}|SwitchCase\\SwitchCase.csproj|solutionrelative:switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 07\\SwitchCase\\SwitchCase\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchCase\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 07\\SwitchCase\\SwitchCase\\Program.cs",
+              "RelativeToolTip": "SwitchCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:35:08.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
