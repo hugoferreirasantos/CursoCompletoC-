@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeSpan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8d3ec7205b04b47dfe1973f7b18c7856eec99a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff2b073f9bdf822befc40a3cddb681d8df6ec011")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeSpan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeSpan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
