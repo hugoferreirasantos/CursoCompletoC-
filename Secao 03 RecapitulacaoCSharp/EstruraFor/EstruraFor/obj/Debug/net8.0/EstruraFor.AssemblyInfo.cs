@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstruraFor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01bda35470f23d83e4ffc5edbaeb08fcef06fdd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72295dc9d07159b1559efec5deb11f4369f25125")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstruraFor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstruraFor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

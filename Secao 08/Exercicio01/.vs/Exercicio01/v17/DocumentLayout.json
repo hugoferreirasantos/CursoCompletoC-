@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{05734BC7-055B-4F6A-9A82-FFFACEB3D4A7}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05734BC7-055B-4F6A-9A82-FFFACEB3D4A7}|Exercicio01\\Exercicio01.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 08\\exercicio01\\exercicio01\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05734BC7-055B-4F6A-9A82-FFFACEB3D4A7}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{05734BC7-055B-4F6A-9A82-FFFACEB3D4A7}|Exercicio01\\Exercicio01.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 08\\exercicio01\\exercicio01\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05734BC7-055B-4F6A-9A82-FFFACEB3D4A7}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05734BC7-055B-4F6A-9A82-FFFACEB3D4A7}|Exercicio01\\Exercicio01.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 08\\exercicio01\\exercicio01\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05734BC7-055B-4F6A-9A82-FFFACEB3D4A7}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WorkerLevel.cs",
               "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\Exercicio01\\Exercicio01\\Entities\\Enums\\WorkerLevel.cs",
               "RelativeDocumentMoniker": "Exercicio01\\Entities\\Enums\\WorkerLevel.cs",
@@ -53,7 +57,7 @@
               "RelativeDocumentMoniker": "Exercicio01\\Entities\\Worker.cs",
               "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\Exercicio01\\Exercicio01\\Entities\\Worker.cs",
               "RelativeToolTip": "Exercicio01\\Entities\\Worker.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wCsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T19:16:32.466Z",
               "EditorCaption": ""
@@ -66,14 +70,14 @@
               "RelativeDocumentMoniker": "Exercicio01\\Entities\\HourContract.cs",
               "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\Exercicio01\\Exercicio01\\Entities\\HourContract.cs",
               "RelativeToolTip": "Exercicio01\\Entities\\HourContract.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T19:11:21.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Departament.cs",
               "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\Exercicio01\\Exercicio01\\Entities\\Departament.cs",
               "RelativeDocumentMoniker": "Exercicio01\\Entities\\Departament.cs",
@@ -92,14 +96,10 @@
               "RelativeDocumentMoniker": "Exercicio01\\Program.cs",
               "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\Exercicio01\\Exercicio01\\Program.cs",
               "RelativeToolTip": "Exercicio01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T19:05:15.295Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

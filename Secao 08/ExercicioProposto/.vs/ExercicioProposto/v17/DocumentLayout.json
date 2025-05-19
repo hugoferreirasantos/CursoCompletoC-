@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 08\\exercicioproposto\\exercicioproposto\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|solutionrelative:exercicioproposto\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 08\\exercicioproposto\\exercicioproposto\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|solutionrelative:exercicioproposto\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 08\\exercicioproposto\\exercicioproposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|solutionrelative:exercicioproposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 08\\exercicioproposto\\exercicioproposto\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|solutionrelative:exercicioproposto\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 08\\exercicioproposto\\exercicioproposto\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|solutionrelative:exercicioproposto\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 08\\exercicioproposto\\exercicioproposto\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AD6058-9E32-4155-942C-A251F24A193E}|ExercicioProposto\\ExercicioProposto.csproj|solutionrelative:exercicioproposto\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioProposto\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Program.cs",
+              "RelativeToolTip": "ExercicioProposto\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:02:45.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ExercicioProposto\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "ExercicioProposto\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:35:21.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "ExercicioProposto\\Entities\\Client.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\Client.cs",
+              "RelativeToolTip": "ExercicioProposto\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:35:15.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ExercicioProposto\\Entities\\Order.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\Order.cs",
+              "RelativeToolTip": "ExercicioProposto\\Entities\\Order.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:34:49.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ExercicioProposto\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ExercicioProposto\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA9wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:29:59.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioProposto\\Entities\\Product.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 08\\ExercicioProposto\\ExercicioProposto\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioProposto\\Entities\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:17:05.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
