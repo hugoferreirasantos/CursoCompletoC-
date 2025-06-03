@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 09\\metodoselados\\metodoselados\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|solutionrelative:metodoselados\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 09\\metodoselados\\metodoselados\\entities\\savingsaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|solutionrelative:metodoselados\\entities\\savingsaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 09\\metodoselados\\metodoselados\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|solutionrelative:metodoselados\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 09\\metodoselados\\metodoselados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|solutionrelative:metodoselados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 09\\metodoselados\\metodoselados\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76BF2C-6D36-458E-80C1-3B1D555DE119}|MetodoSelados\\MetodoSelados.csproj|solutionrelative:metodoselados\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccountPlus.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Entities\\SavingsAccountPlus.cs",
+              "RelativeDocumentMoniker": "MetodoSelados\\Entities\\SavingsAccountPlus.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Entities\\SavingsAccountPlus.cs",
+              "RelativeToolTip": "MetodoSelados\\Entities\\SavingsAccountPlus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:28:00.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "MetodoSelados\\Entities\\SavingsAccount.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "MetodoSelados\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:26:06.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "MetodoSelados\\Entities\\BusinessAccount.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "MetodoSelados\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:25:19.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "MetodoSelados\\Entities\\Account.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Entities\\Account.cs",
+              "RelativeToolTip": "MetodoSelados\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:24:42.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Program.cs",
+              "RelativeDocumentMoniker": "MetodoSelados\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\MetodoSelados\\MetodoSelados\\Program.cs",
+              "RelativeToolTip": "MetodoSelados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:22:59.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
