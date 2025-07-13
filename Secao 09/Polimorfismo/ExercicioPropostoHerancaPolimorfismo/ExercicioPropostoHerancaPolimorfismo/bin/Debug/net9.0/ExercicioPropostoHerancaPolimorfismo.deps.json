@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExercicioPropostoHerancaPolimorfismo/1.0.0": {
+        "runtime": {
+          "ExercicioPropostoHerancaPolimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioPropostoHerancaPolimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

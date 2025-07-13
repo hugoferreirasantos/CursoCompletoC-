@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\Polimorfismo\\ExercicioPropostoHerancaPolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8706EF-A53B-49E1-9EA4-4B592494E260}|ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 09\\polimorfismo\\exerciciopropostoherancapolimorfismo\\exerciciopropostoherancapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8706EF-A53B-49E1-9EA4-4B592494E260}|ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo.csproj|solutionrelative:exerciciopropostoherancapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8706EF-A53B-49E1-9EA4-4B592494E260}|ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 09\\polimorfismo\\exerciciopropostoherancapolimorfismo\\exerciciopropostoherancapolimorfismo\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8706EF-A53B-49E1-9EA4-4B592494E260}|ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo.csproj|solutionrelative:exerciciopropostoherancapolimorfismo\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8706EF-A53B-49E1-9EA4-4B592494E260}|ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 09\\polimorfismo\\exerciciopropostoherancapolimorfismo\\exerciciopropostoherancapolimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8706EF-A53B-49E1-9EA4-4B592494E260}|ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo.csproj|solutionrelative:exerciciopropostoherancapolimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8706EF-A53B-49E1-9EA4-4B592494E260}|ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo.csproj|d:\\ambiente_desenvolvimento\\curso completo c#\\secao 09\\polimorfismo\\exerciciopropostoherancapolimorfismo\\exerciciopropostoherancapolimorfismo\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8706EF-A53B-49E1-9EA4-4B592494E260}|ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo.csproj|solutionrelative:exerciciopropostoherancapolimorfismo\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\Polimorfismo\\ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ExercicioPropostoHerancaPolimorfismo\\Entities\\UsedProduct.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\Polimorfismo\\ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ExercicioPropostoHerancaPolimorfismo\\Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:44:57.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\Polimorfismo\\ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ExercicioPropostoHerancaPolimorfismo\\Entities\\ImportedProduct.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\Polimorfismo\\ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ExercicioPropostoHerancaPolimorfismo\\Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:31:52.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\Polimorfismo\\ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioPropostoHerancaPolimorfismo\\Entities\\Product.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\Polimorfismo\\ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioPropostoHerancaPolimorfismo\\Entities\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:25:22.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\Polimorfismo\\ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioPropostoHerancaPolimorfismo\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Curso completo C#\\Secao 09\\Polimorfismo\\ExercicioPropostoHerancaPolimorfismo\\ExercicioPropostoHerancaPolimorfismo\\Program.cs",
+              "RelativeToolTip": "ExercicioPropostoHerancaPolimorfismo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:23:31.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
